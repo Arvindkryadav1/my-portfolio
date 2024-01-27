@@ -16,7 +16,7 @@ export default function NavBar() {
           <a href="#skills" className="mr-5 hover:text-white">
             Skills
           </a>
-          <a href="/ArvindKumar.pdf" className="mr-5 hover:text-white" download>
+          <a href="/Arvind.pdf" className="mr-5 hover:text-white" download>
             Download Resume
           </a>
           
